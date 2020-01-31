@@ -1,2 +1,3 @@
 # web2
-my second website
+This is a simple html and bootstrap website
+
